@@ -16,7 +16,7 @@
   <img align="center" alt="Edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Edu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  
-   ![Snake animation](https://github.com/EDUZ1K4/eduz1k4/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/EDUZ1K4/eduz1k4/blob/main/.github/workflows/snake.yml)
   
 </div>
 
