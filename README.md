@@ -18,5 +18,3 @@
 </div>
 
 ##
-
-    ![Snake animation](https://github.com/EDUZ1K4/eduz1k4/blob/output/github-contribution-grid-snake.svg)
