@@ -3,8 +3,8 @@
 
 - 📫 How to reach me: edu.lopes.dev@gmail.com.
 <div>
-  <a href="https://github.com/eduardolopes777">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardolopes777&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolopes777&layout=compact&langs_count=7&theme=omni"/>
+  <a href="https://github.com/eduardogaspari">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardogaspari&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogaspari&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
 
@@ -19,7 +19,7 @@
     <img align="center" alt="Edu-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
   
-   ![Snake animation](https://github.com/eduardolopes777/eduardolopes777/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/eduardogaspari/eduardogaspari/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
