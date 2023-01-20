@@ -1,7 +1,7 @@
 
 ### Hi I'm Eduardo Lopes <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="28px" width="28px" alt="hi">
 
-- 📫 How to reach me: edu.lopes.dev@gmail.com.
+- 📫 How to reach me: eduardo.gaspari@outlook.com.
 <div>
   <a href="https://github.com/eduardogaspari">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardogaspari&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogaspari&layout=compact&langs_count=7&theme=omni"/>
