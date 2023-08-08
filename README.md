@@ -17,10 +17,6 @@
 
   <img align="center" alt="Edu-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
     <img align="center" alt="Edu-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-
-  
-   ![Snake animation](https://github.com/eduardogaspari/eduardogaspari/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 
 ##
